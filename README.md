@@ -5,6 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- 🚀 LinkedIn [Henry Bellman](https://www.linkedin.com/in/henry-bellman/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
