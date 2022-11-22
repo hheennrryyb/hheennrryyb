@@ -77,7 +77,9 @@ Tech stack:
 
 TELUS Digital challenged us on developing an application & design to tackle the option paralysis surrounding the multitude of streaming available. The 24 hour hackathon was exhilarating from the ideation process to developing the react app. We are super proud of our innovative app that solves option paralysis creatively and practically. This was a great opportunity to work cross-collaboratively with the UX team for ideation and creative design. Telus also provided a very open challenge that sparked ingenuity and critical thinking to solve a major issue many large companies struggle with. **(24 hour hackathon )**
 
-![Telus Bubble](https://user-images.githubusercontent.com/79873814/203226958-5bd3cd73-be7e-44f0-9a67-5e586b32780f.gif | height=600))
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/79873814/203226958-5bd3cd73-be7e-44f0-9a67-5e586b32780f.gif)" height="600">
+
+<!-- ![Telus Bubble](https://user-images.githubusercontent.com/79873814/203226958-5bd3cd73-be7e-44f0-9a67-5e586b32780f.gif | height=600)) -->
 
 
 ## InStock Warehousing & Inventory Management
