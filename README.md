@@ -52,19 +52,18 @@ Locally is my NextJS Ecommerce website centered around giving local boutique han
 ![Locally](https://user-images.githubusercontent.com/79873814/203249507-2596df34-a533-4ccf-851f-588cb1b8c062.gif)
 
 Tech stack:
-
 -   Next JS - was a vital framework and was the best option for developing an ecommerce platform like this.
+  
+	-   An intuitive dynamic routes and page-based routing, building dynamic filebase routing for product, makers and categories pages.
+	    
+	-   Pre-rendering, server-side rendering (SSR) are supported for fast load times and improved SEO
+	    
+	-   Automatic code splitting for faster page loads.
+	    
+	-   Client-side routing with optimized prefetching.
+	    
+	-   API routes to build API endpoints with Serverless Functions.
     
-
--   An intuitive dynamic routes and page-based routing, building dynamic filebase routing for product, makers and categories pages.
-    
--   Pre-rendering, server-side rendering (SSR) are supported for fast load times and improved SEO
-    
--   Automatic code splitting for faster page loads.
-    
--   Client-side routing with optimized prefetching.
-    
--   API routes to build API endpoints with Serverless Functions.
     
 
 -   Sanity CMS - was handling all the content on the website without the need for a complex backend. Data were queried using GROQ and using Next function getServerSideProps pre-render the page on each request. Sanity rich text, image handling, and content management were crucial in having a content-heavy website work.
