@@ -83,6 +83,7 @@ Tech stack:
 ## Telus Bubble App
 
 TELUS Digital challenged us on developing an application & design to tackle the option paralysis surrounding the multitude of streaming available. The 24 hour hackathon was exhilarating from the ideation process to developing the react app. We are super proud of our innovative app that solves option paralysis creatively and practically. This was a great opportunity to work cross-collaboratively with the UX team for ideation and creative design. Telus also provided a very open challenge that sparked ingenuity and critical thinking to solve a major issue many large companies struggle with. **(24 hour hackathon )**
+
 ![Telus Bubbles](https://user-images.githubusercontent.com/79873814/203248893-5e089151-ac25-4b8e-a59d-2b114405d190.gif)
 
 
@@ -90,6 +91,7 @@ TELUS Digital challenged us on developing an application & design to tackle the 
 ## InStock Warehousing & Inventory Management
 
 A group project collaborating using GitFlow and Agile (Jira) workflows to produce a warehousing application to manage inventory & warehouses. InStock is a full-stack react app with a nodeJS backend handling all the data. Building this inventory management app taught us the intricacies of these applications, the necessity of building reusable components, and working collaboratively. **(1 Week)**
+
 ![inStock](https://user-images.githubusercontent.com/79873814/203248878-6d91db50-af55-44a0-bd2c-904cbd727c6a.gif)
 
 
