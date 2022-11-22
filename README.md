@@ -99,6 +99,7 @@ A group project collaborating using GitFlow and Agile (Jira) workflows to produc
 ## BrainFlix
 
 BrainFlix is a video-sharing and social media platform built on react. The application features video commenting and engaging , uploading placeholder videos, and setting username session data. The application used a node express backend to create an API for video and comments. **(2 Weeks)**
+
 ![Brainflix](https://user-images.githubusercontent.com/79873814/203248859-159e4750-da1d-4208-b3a2-228da33bc0fd.gif)
 
 
@@ -106,5 +107,6 @@ BrainFlix is a video-sharing and social media platform built on react. The appli
 ## Bandsite
 
 Project assignment for the BrainStation Bootcamp that leverages beautifully responsive design for all screens, advanced Javascript for adding commenting functionality and pulling data from APIs for displaying vital information, and using the document object model to display information. **(2 Weeks)**
+
 ![Bandsite](https://user-images.githubusercontent.com/79873814/203248818-cde6a26c-d0fe-47f2-87ee-3cf57697866c.gif)
 
