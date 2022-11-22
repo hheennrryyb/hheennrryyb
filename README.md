@@ -19,8 +19,12 @@
 # Project Showcase
 
 ## Rhythm Music
+https://rhythmmusic.netlify.app/
 
 Rhythm music app was created to discover, share and curate playlists! The app is a full-fledged music app with all the core features of a modern music app, such as account authentication, the ability to save and create shareable links, and most importantly discover tunes from a plethora of genres. Rhythm is also fully responsive for all screen sizes with an intuitive and beautifully sleek UI. The project proved to be an incredible undertaking to build out such a feature-rich application with many moving parts. **(1.5 months to develop)**
+
+![Rhythm](https://user-images.githubusercontent.com/79873814/203249486-3794e86f-7cc8-425d-938f-952430830632.gif)
+
 
 Tech Stack Frontend
 
@@ -41,8 +45,11 @@ Backend
     
 
 ## Locally E-commerce
+https://locally-capstone.vercel.app/
 
 Locally is my NextJS Ecommerce website centered around giving local boutique handcraft makers an accessible B2C platform. This project was a part of my final capstone project for my time at Brain station. The website is a feature-packed with e-commerce cart and checkout functionality, many dynamic routes and a beautiful UI. The project was a big undertaking considering the short time span I had and the functionality I had to develop for an MVP. Although I gained so much knowledge about new technologies, the app was also fulfilling to create because of the social responsibility and sustainability behind the project. **(2 Weeks to Develop)**
+
+![Locally](https://user-images.githubusercontent.com/79873814/203249507-2596df34-a533-4ccf-851f-588cb1b8c062.gif)
 
 Tech stack:
 
@@ -76,28 +83,26 @@ Tech stack:
 ## Telus Bubble App
 
 TELUS Digital challenged us on developing an application & design to tackle the option paralysis surrounding the multitude of streaming available. The 24 hour hackathon was exhilarating from the ideation process to developing the react app. We are super proud of our innovative app that solves option paralysis creatively and practically. This was a great opportunity to work cross-collaboratively with the UX team for ideation and creative design. Telus also provided a very open challenge that sparked ingenuity and critical thinking to solve a major issue many large companies struggle with. **(24 hour hackathon )**
+![Telus Bubbles](https://user-images.githubusercontent.com/79873814/203248893-5e089151-ac25-4b8e-a59d-2b114405d190.gif)
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/79873814/203226958-5bd3cd73-be7e-44f0-9a67-5e586b32780f.gif)" height="600">
-
-<!-- ![Telus Bubble](https://user-images.githubusercontent.com/79873814/203226958-5bd3cd73-be7e-44f0-9a67-5e586b32780f.gif | height=600)) -->
 
 
 ## InStock Warehousing & Inventory Management
 
 A group project collaborating using GitFlow and Agile (Jira) workflows to produce a warehousing application to manage inventory & warehouses. InStock is a full-stack react app with a nodeJS backend handling all the data. Building this inventory management app taught us the intricacies of these applications, the necessity of building reusable components, and working collaboratively. **(1 Week)**
+![inStock](https://user-images.githubusercontent.com/79873814/203248878-6d91db50-af55-44a0-bd2c-904cbd727c6a.gif)
 
-![InStock Project](https://user-images.githubusercontent.com/79873814/203226810-a12bbb34-573a-44e9-b485-3308144ec0a1.gif)
 
 
 ## BrainFlix
 
 BrainFlix is a video-sharing and social media platform built on react. The application features video commenting and engaging , uploading placeholder videos, and setting username session data. The application used a node express backend to create an API for video and comments. **(2 Weeks)**
+![Brainflix](https://user-images.githubusercontent.com/79873814/203248859-159e4750-da1d-4208-b3a2-228da33bc0fd.gif)
 
-![Brainflix](https://user-images.githubusercontent.com/79873814/203228406-8e8a39b9-3e2f-47ae-a5d9-1868e7325c79.gif)
 
-  
 
 ## Bandsite
 
 Project assignment for the BrainStation Bootcamp that leverages beautifully responsive design for all screens, advanced Javascript for adding commenting functionality and pulling data from APIs for displaying vital information, and using the document object model to display information. **(2 Weeks)**
+![Bandsite](https://user-images.githubusercontent.com/79873814/203248818-cde6a26c-d0fe-47f2-87ee-3cf57697866c.gif)
 
