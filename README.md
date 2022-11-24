@@ -50,6 +50,8 @@ Backend
 ## Locally E-commerce
 https://locally-capstone.vercel.app/
 
+[GitHub Repo](https://github.com/hheennrryyb/Locally-Capstone)
+
 Locally is my NextJS Ecommerce website centered around giving local boutique handcraft makers an accessible B2C platform. This project was a part of my final capstone project for my time at Brain station. The website is a feature-packed with e-commerce cart and checkout functionality, many dynamic routes and a beautiful UI. The project was a big undertaking considering the short time span I had and the functionality I had to develop for an MVP. Although I gained so much knowledge about new technologies, the app was also fulfilling to create because of the social responsibility and sustainability behind the project. **(2 Weeks to Develop)**
 
 ![Locally](https://user-images.githubusercontent.com/79873814/203249507-2596df34-a533-4ccf-851f-588cb1b8c062.gif)
