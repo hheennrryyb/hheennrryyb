@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
 <h3 align="center">Devoted to developing aesthetically pleasing and awesome web apps!</h3>
 
-- 🔭 Showcase Project [Locally E-commerce](locally-capstone.vercel.app)
+- 🔭 Showcase Project [Locally E-commerce](https://github.com/hheennrryyb/Locally-Capstone)
+	- https://locally-capstone.vercel.app/
 
 - 🔭 Showcase Project [Rhythm Music](rhythmmusic.netlify.app/)
+	- https://locally-capstone.vercel.app/
 
 - Connect With Me! [LinkedIn](linkedin.com/in/henry-bellman/)
 
