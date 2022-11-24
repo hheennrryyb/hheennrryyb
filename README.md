@@ -21,6 +21,8 @@
 ## Rhythm Music
 https://rhythmmusic.netlify.app/
 
+Backend: github.com/hheennrryyb/rhythm-music-server
+
 Rhythm music app was created to discover, share and curate playlists! The app is a full-fledged music app with all the core features of a modern music app, such as account authentication, the ability to save and create shareable links, and most importantly discover tunes from a plethora of genres. Rhythm is also fully responsive for all screen sizes with an intuitive and beautifully sleek UI. The project proved to be an incredible undertaking to build out such a feature-rich application with many moving parts. **(1.5 months to develop)**
 
 ![Rhythm](https://user-images.githubusercontent.com/79873814/203249486-3794e86f-7cc8-425d-938f-952430830632.gif)
