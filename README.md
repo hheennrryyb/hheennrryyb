@@ -2,10 +2,10 @@
 <h3 align="center">Devoted to developing aesthetically pleasing and awesome web apps!</h3>
 
 - 🔭 Showcase Project [Locally E-commerce](https://github.com/hheennrryyb/Locally-Capstone)
-	- https://locally-capstone.vercel.app/
+	- [locally-capstone.vercel.app](https://locally-capstone.vercel.app/)
 
-- 🔭 Showcase Project [Rhythm Music](rhythmmusic.netlify.app/)
-	- https://locally-capstone.vercel.app/
+- 🔭 Showcase Project [Rhythm Music](https://github.com/hheennrryyb/rhythm-music)
+	- [rhythmmusic.netlify.app](https://rhythmmusic.netlify.app/)
 
 - Connect With Me! [LinkedIn](linkedin.com/in/henry-bellman/)
 
