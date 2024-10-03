@@ -69,7 +69,7 @@ Utilize natural language processing to interpret your queries, retrieve relevant
 - AI & ML: FAISS, PyTorch, LangChain
 - Other Tools: JWT for authentication, Celery for asynchronous tasks, Redis for caching and message brokering
 
-## Reconnector - Work Place Social Media Platform **(1.5 week hackathon )**
+## Reconnector - Work Place Social Media Platform **(1.5 Week Hackathon, Winner 🥇 )**
 [Frontend](https://github.com/hheennrryyb/reconnector-frontend)
 
 Reconnector is a dynamic social platform centered around building community by highlighting shared interests among co-workers. By fostering empathy and mutual understanding, our app lays the foundation for strong workplace relationships. It addresses the challenges of remote work by bridging the gap created by physical distance, restoring bonds through shared interests, and promoting company pride through engaging features.
@@ -77,6 +77,8 @@ Reconnector is a dynamic social platform centered around building community by h
 ![Reconnector](https://github.com/user-attachments/assets/2918efb4-b7c5-4262-a118-4c86c66ed347)
 
 With Reconnector, employees can share events and experiences, reviving workplace kinship and creating a sense of belonging. Additionally, our app incorporates gamification elements that encourage a competitive spirit—employees can participate in events and compete against other companies to earn points. This fun and interactive approach not only strengthens internal bonds but also boosts overall engagement and morale.
+
+Placed 1st 🏆 in the Hackathon Event: [Linkedin Post](https://www.linkedin.com/posts/jordandavidmcrae_in-june-stack-five-hosted-a-two-week-long-activity-7218711606602407936-BeL8?utm_source=share&utm_medium=member_desktop)
 
 💡 Tech Stack:
 Frontend: React & TypeScript
