@@ -39,9 +39,11 @@
 
 ---
 
-# Project Showcase
+# 🚀 Project Showcase
 
-### Query Quill - Ultimate Document Processing & AI Query Assistant
+> *These projects are personal hobbies and side projects that I’ve built to showcase my skills, explore new technologies, and continual learning. They reflect my passion for development and experimenting with various tech stacks, but do not include my professional work. For a full overview of my professional experience, please refer to my [resume](https://docs.google.com/document/d/1nkZmBwQAAQ407IDoCs1TUBe7lOm4DOa5/edit?usp=sharing&ouid=100506516036689234773&rtpof=true&sd=true).*
+
+## Query Quill - Ultimate Document Processing & AI Query Assistant
 https://query-quill-8pqht.ondigitalocean.app/
 [Backend](https://github.com/hheennrryyb/QueryQuill-Backend) |
 [Frontend](https://github.com/hheennrryyb/QueryQuill-Frontend)
