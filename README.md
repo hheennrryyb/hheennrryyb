@@ -48,6 +48,7 @@ https://query-quill-8pqht.ondigitalocean.app/
 [Backend](https://github.com/hheennrryyb/QueryQuill-Backend) |
 [Frontend](https://github.com/hheennrryyb/QueryQuill-Frontend)
 
+**Query Quill is currently undergoing new development and being revamped into a SASS RAG platform, so stay tuned for some exciting new updates!**
 Query Quill enables you to build custom-trained RAG (Retrieval-Augmented Generation) models effortlessly. Upload your documents, process them, and perform smart queries with ease. No deep technical expertise required! It’s all about creating tailored AI assistants that understand and respond based on the specific content you provide.
 
 ![QueryQuill](https://github.com/user-attachments/assets/2e95ba28-a58e-470f-843b-786b2f9c7734)
