@@ -43,9 +43,7 @@
 > *These projects are personal hobbies and side projects that I’ve built to showcase my skills, explore new technologies, and continual learning. They reflect my passion for development and experimenting with various tech stacks, but do not include my professional work. For a full overview of my professional experience, please refer to my [resume](https://docs.google.com/document/d/1nkZmBwQAAQ407IDoCs1TUBe7lOm4DOa5/edit?usp=sharing&ouid=100506516036689234773&rtpof=true&sd=true).*
 
 ## Query Quill - Ultimate Document Processing & AI Query Assistant
-https://query-quill-8pqht.ondigitalocean.app/
-[Backend](https://github.com/hheennrryyb/QueryQuill-Backend) |
-[Frontend](https://github.com/hheennrryyb/QueryQuill-Frontend)
+**Private Repository**
 
 **Query Quill is currently undergoing new development and being revamped into a SASS RAG platform, so stay tuned for some exciting new updates!**
 Query Quill enables you to build custom-trained RAG (Retrieval-Augmented Generation) models effortlessly. Upload your documents, process them, and perform smart queries with ease. No deep technical expertise required! It’s all about creating tailored AI assistants that understand and respond based on the specific content you provide.
