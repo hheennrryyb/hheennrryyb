@@ -44,7 +44,7 @@
 
 ## Query Quill - Ultimate Document Processing & AI Query Assistant
 **Private Repository**
-Website: [queryquill.io](queryquill.io)
+Website: [queryquill.io](https://queryquill.io)
 
 **Query Quill is currently undergoing new development and being revamped into a SASS RAG platform, so stay tuned for some exciting new updates!**
 Query Quill enables you to build custom-trained RAG (Retrieval-Augmented Generation) models effortlessly. Upload your documents, process them, and perform smart queries with ease. No deep technical expertise required! It’s all about creating tailored AI assistants that understand and respond based on the specific content you provide.
