@@ -6,8 +6,7 @@
 
 ### 🚀 Featured Projects
 
-- **🔭 QueryQuill**  
-  [Frontend Repository](https://github.com/hheennrryyb/QueryQuill-Frontend) | [Live App](https://query-quill-8pqht.ondigitalocean.app)  
+- **🔭 QueryQuill**    
   *Custom document processing and AI query assistant, built with React, Django, and FAISS.*
 
 - **🔭 Locally E-commerce**  
@@ -23,9 +22,9 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/henry-bellman/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a> 
-  <a href="mailto:henrybellman@gmail.com"><img src="https://img.shields.io/badge/Email-henrybellman%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://docs.google.com/document/d/1nkZmBwQAAQ407IDoCs1TUBe7lOm4DOa5/edit?usp=sharing&ouid=100506516036689234773&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Resume-View-yellow?style=flat-square" /></a>
+  <a href="https://linkedin.com/in/henry-bellman/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" style="max-width: 100%;height: 24px;" /></a> 
+  <a href="mailto:henrybellman@gmail.com"><img src="https://img.shields.io/badge/Email-henrybellman%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" style="max-width: 100%;height: 24px;" /></a>
+  <a href="https://docs.google.com/document/d/1nkZmBwQAAQ407IDoCs1TUBe7lOm4DOa5/edit?usp=sharing&ouid=100506516036689234773&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Resume-View-yellow?style=flat-square" style="max-width: 100%;height: 24px;" /></a>
 </p>
 <p align="center">**Feel free to reach out if you'd like to collaborate or chat about web development and tech!**</p>
 
